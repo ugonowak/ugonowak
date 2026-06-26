@@ -31,7 +31,6 @@ Domaines visés : aérodynamique, CFD, systèmes énergétiques, propulsion, tra
 |---|---|
 | [4A](https://github.com/ugonowak/4A) | TPs et projets de 4ème année |
 | [5A](https://github.com/ugonowak/5A) | TPs et projets de 5ème année |
-| [TP_3A](https://github.com/ugonowak/TP_3A) | TPs de 3ème année |
 
 ---
 
